@@ -1,0 +1,6 @@
+# Filename: helloworld.ps1
+Write-Host
+Write-Host 'Hello World!'
+Write-Host "Good-bye World! `n"
+Write-Host "X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*"
+# end of script
